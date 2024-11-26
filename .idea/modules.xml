@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TP5/TP5.iml" filepath="$PROJECT_DIR$/TP5/TP5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP6/TP6.iml" filepath="$PROJECT_DIR$/TP6/TP6.iml" />
       <module fileurl="file://$PROJECT_DIR$/TPITERATIVAS/TPITERATIVAS.iml" filepath="$PROJECT_DIR$/TPITERATIVAS/TPITERATIVAS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tp_SecuencialesYCondicionalese/Tp_SecuencialesYCondicionalese.iml" filepath="$PROJECT_DIR$/Tp_SecuencialesYCondicionalese/Tp_SecuencialesYCondicionalese.iml" />
       <module fileurl="file://$PROJECT_DIR$/TpsJava/TpsJava.iml" filepath="$PROJECT_DIR$/TpsJava/TpsJava.iml" />
